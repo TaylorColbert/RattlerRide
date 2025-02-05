@@ -13,4 +13,21 @@ Rattler Ride addresses the current gap in transportation options, where city sco
 # Requirements Review
 [Rattler Ride Requirements Review.pdf](https://github.com/user-attachments/files/18579144/Rattler.Ride.Requirements.Review.pdf)
 
+# Data Dictionary 
+[Data Dictionary (3).docx](https://github.com/user-attachments/files/18680600/Data.Dictionary.3.docx)
+
+
+# Entity Relationship Diagram
+[Rattler-Ride ERD.drawio.pdf](https://github.com/user-attachments/files/18680603/Rattler-Ride.ERD.drawio.pdf)
+
+
+# LLM Prompts
+[ChatGPT Prompt Progression.pptx](https://github.com/user-attachments/files/18680596/ChatGPT.Prompt.Progression.pptx)
+
+
+# Sprint Documentation
+[Sprint 1 - Minutes (3).pdf](https://github.com/user-attachments/files/18680607/Sprint.1.-.Minutes.3.pdf)
+[Sprint 2 - Minutes.pdf](https://github.com/user-attachments/files/18680608/Rattler.Ride.2nd.Scrum.Meeting.Report.2.pdf)
+[Sprint 3 - Minutes.pdf](https://github.com/user-attachments/files/18680610/Rattler.Ride.3rd.Scrum.Meeting.Report.3.pdf)
+[Sprint 4 - Minutes.pdf](https://github.com/user-attachments/files/18680611/Rattler.Ride.4th.Scrum.Meeting.Report.1.pdf)
 
