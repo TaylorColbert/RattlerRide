@@ -14,11 +14,11 @@ Rattler Ride addresses the current gap in transportation options, where city sco
 [Rattler Ride Requirements Review.pdf](https://github.com/user-attachments/files/18579144/Rattler.Ride.Requirements.Review.pdf)
 
 # Data Dictionary 
-[Data Dictionary (3).docx](https://github.com/user-attachments/files/18680600/Data.Dictionary.3.docx)
+[Data Dictionary.docx](https://github.com/user-attachments/files/18680600/Data.Dictionary.3.docx)
 
 
-# Entity Relationship Diagram
-[Rattler-Ride ERD.drawio.pdf](https://github.com/user-attachments/files/18680603/Rattler-Ride.ERD.drawio.pdf)
+# Entity Relationship Design 
+![Rattler-Ride ERD-Page-1 drawio](https://github.com/user-attachments/assets/4b04b7e3-5125-4901-a1cd-6a44830b73fe)
 
 
 # LLM Prompts
@@ -26,7 +26,7 @@ Rattler Ride addresses the current gap in transportation options, where city sco
 
 
 # Sprint Documentation
-[Sprint 1 - Minutes (3).pdf](https://github.com/user-attachments/files/18680607/Sprint.1.-.Minutes.3.pdf)
+[Sprint 1 - Minutes.pdf](https://github.com/user-attachments/files/18680607/Sprint.1.-.Minutes.3.pdf)
 [Sprint 2 - Minutes.pdf](https://github.com/user-attachments/files/18680608/Rattler.Ride.2nd.Scrum.Meeting.Report.2.pdf)
 [Sprint 3 - Minutes.pdf](https://github.com/user-attachments/files/18680610/Rattler.Ride.3rd.Scrum.Meeting.Report.3.pdf)
 [Sprint 4 - Minutes.pdf](https://github.com/user-attachments/files/18680611/Rattler.Ride.4th.Scrum.Meeting.Report.1.pdf)
